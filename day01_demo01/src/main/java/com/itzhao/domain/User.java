@@ -12,6 +12,4 @@ public class User {
         System.out.println("kkkk");
         System.out.println(1212);
     }
-
-
 }
