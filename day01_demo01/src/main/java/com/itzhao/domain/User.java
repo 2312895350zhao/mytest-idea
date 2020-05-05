@@ -1,5 +1,7 @@
 package com.itzhao.domain;
 
+import org.junit.Test;
+
 /**
  * com.itzhao.domain
  * Created on 2020/5/5.
@@ -7,5 +9,8 @@ package com.itzhao.domain;
 public class User {
     public static void main(String[] args) {
         System.out.println("lllll");
+        System.out.println("kkkk");
     }
+
+
 }
